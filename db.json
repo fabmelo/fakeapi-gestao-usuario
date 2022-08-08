@@ -5,7 +5,7 @@
       "usuarioEmail": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
-      "moderador": "Fulano de Tal",
+      "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem reghistro de atividade"
     },
@@ -14,7 +14,7 @@
       "usuarioEmail": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
-      "moderador": "Qualquer de Tal",
+      "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
@@ -23,7 +23,7 @@
       "usuarioEmail": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
-      "moderador": "Fulano de Tal",
+      "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem reghistro de atividade"
     },
@@ -32,7 +32,7 @@
       "usuarioEmail": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
-      "moderador": "Qualquer de Tal",
+      "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
@@ -41,7 +41,7 @@
       "usuarioEmail": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
-      "moderador": "Fulano de Tal",
+      "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem reghistro de atividade"
     },
@@ -50,7 +50,7 @@
       "usuarioEmail": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
-      "moderador": "Qualquer de Tal",
+      "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
@@ -59,7 +59,7 @@
       "usuarioEmail": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
-      "moderador": "Fulano de Tal",
+      "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem reghistro de atividade"
     },
@@ -68,7 +68,7 @@
       "usuarioEmail": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
-      "moderador": "Qualquer de Tal",
+      "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
@@ -77,7 +77,7 @@
       "usuarioEmail": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
-      "moderador": "Fulano de Tal",
+      "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem reghistro de atividade"
     },
@@ -86,7 +86,7 @@
       "usuarioEmail": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
-      "moderador": "Qualquer de Tal",
+      "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
@@ -95,7 +95,7 @@
       "usuarioEmail": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
-      "moderador": "Fulano de Tal",
+      "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem reghistro de atividade"
     },
@@ -104,7 +104,7 @@
       "usuarioEmail": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
-      "moderador": "Qualquer de Tal",
+      "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     }
