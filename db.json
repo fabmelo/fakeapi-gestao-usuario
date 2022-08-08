@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "usuarioNome": "Beltrano de Tal",
-      "usuarioEmail": "beltrano@gmail.com",
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
@@ -10,8 +10,8 @@
       "ultimaAtividade": "Sem reghistro de atividade"
     },
     {
-      "usuarioNome": "Cilano de Tal",
-      "usuarioEmail": "ciclano@gmail.com",
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
@@ -19,8 +19,8 @@
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
-      "usuarioNome": "Beltrano de Tal",
-      "usuarioEmail": "beltrano@gmail.com",
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
@@ -28,8 +28,8 @@
       "ultimaAtividade": "Sem reghistro de atividade"
     },
     {
-      "usuarioNome": "Cilano de Tal",
-      "usuarioEmail": "ciclano@gmail.com",
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
@@ -37,8 +37,8 @@
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
-      "usuarioNome": "Beltrano de Tal",
-      "usuarioEmail": "beltrano@gmail.com",
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
@@ -46,8 +46,8 @@
       "ultimaAtividade": "Sem reghistro de atividade"
     },
     {
-      "usuarioNome": "Cilano de Tal",
-      "usuarioEmail": "ciclano@gmail.com",
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
@@ -55,8 +55,8 @@
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
-      "usuarioNome": "Beltrano de Tal",
-      "usuarioEmail": "beltrano@gmail.com",
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
@@ -64,8 +64,8 @@
       "ultimaAtividade": "Sem reghistro de atividade"
     },
     {
-      "usuarioNome": "Cilano de Tal",
-      "usuarioEmail": "ciclano@gmail.com",
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
@@ -73,8 +73,8 @@
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
-      "usuarioNome": "Beltrano de Tal",
-      "usuarioEmail": "beltrano@gmail.com",
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
@@ -82,8 +82,8 @@
       "ultimaAtividade": "Sem reghistro de atividade"
     },
     {
-      "usuarioNome": "Cilano de Tal",
-      "usuarioEmail": "ciclano@gmail.com",
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
@@ -91,8 +91,8 @@
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
-      "usuarioNome": "Beltrano de Tal",
-      "usuarioEmail": "beltrano@gmail.com",
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
@@ -100,8 +100,8 @@
       "ultimaAtividade": "Sem reghistro de atividade"
     },
     {
-      "usuarioNome": "Cilano de Tal",
-      "usuarioEmail": "ciclano@gmail.com",
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
       "permissao": "Operador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
