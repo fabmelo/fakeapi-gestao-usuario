@@ -12,7 +12,7 @@
     {
       "nomeUsuario": "Cilano de Tal",
       "emailUsuario": "ciclano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Administrador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
@@ -21,7 +21,7 @@
     {
       "nomeUsuario": "Beltrano de Tal",
       "emailUsuario": "beltrano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Personalizado",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
@@ -39,7 +39,7 @@
     {
       "nomeUsuario": "Beltrano de Tal",
       "emailUsuario": "beltrano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Administrador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
@@ -48,7 +48,7 @@
     {
       "nomeUsuario": "Cilano de Tal",
       "emailUsuario": "ciclano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Personalizado",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
@@ -66,7 +66,7 @@
     {
       "nomeUsuario": "Cilano de Tal",
       "emailUsuario": "ciclano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Administrador",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
@@ -75,7 +75,7 @@
     {
       "nomeUsuario": "Beltrano de Tal",
       "emailUsuario": "beltrano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Personalizado",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
@@ -93,7 +93,7 @@
     {
       "nomeUsuario": "Beltrano de Tal",
       "emailUsuario": "beltrano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Administrador",
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
@@ -102,7 +102,7 @@
     {
       "nomeUsuario": "Cilano de Tal",
       "emailUsuario": "ciclano@gmail.com",
-      "permissao": "Operador",
+      "permissao": "Personalizado",
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
