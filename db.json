@@ -21,7 +21,7 @@
     {
       "nomeUsuario": "Beltrano de Tal",
       "emailUsuario": "beltrano@gmail.com",
-      "permissao": "Personalizado",
+      "permissao": null,
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
