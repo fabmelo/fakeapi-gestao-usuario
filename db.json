@@ -1,4 +1,5 @@
-[
+{
+  "usuarios": [
     {
       "usuarioNome": "Beltrano de Tal",
       "usuarioEmail": "beltrano@gmail.com",
@@ -108,4 +109,4 @@
       "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     }
   ]
-  
+}
