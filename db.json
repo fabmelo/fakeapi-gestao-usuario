@@ -12,24 +12,31 @@
   ],
   "permissoes": [
     {
+      "id": 1,
       "permissao": "Realizar programações"
     },
     {
+      "id": 2,
       "permissao": "Acessar histórico de consumo"
     },
     {
+      "id": 3,
       "permissao": "Consultar protocolos"
     },
     {
+      "id": 4,
       "permissao": "Extrair relatórios"
     },
     {
+      "id": 5,
       "permissao": "Acesso a regras e documentos"
     },
     {
+      "id": 6,
       "permissao": "Acesso a informações financeiras"
     },
     {
+      "id": 7,
       "permissao": "Acesso a penalidades"
     }
   ],
