@@ -1,4 +1,38 @@
 {
+  "perfis": [
+    {
+      "perfil": "Administrador"
+    },
+    {
+      "perfil": "Operador"
+    },
+    {
+      "perfil": "Personalizado"
+    }
+  ],
+  "permissoes": [
+    {
+      "permissao": "Realizar programações"
+    },
+    {
+      "permissao": "Acessar histórico de consumo"
+    },
+    {
+      "permissao": "Consultar protocolos"
+    },
+    {
+      "permissao": "Extrair relatórios"
+    },
+    {
+      "permissao": "Acesso a regras e documentos"
+    },
+    {
+      "permissao": "Acesso a informações financeiras"
+    },
+    {
+      "permissao": "Acesso a penalidades"
+    }
+  ],
   "usuarios": [
     {
       "nomeUsuario": "Beltrano de Tal",
