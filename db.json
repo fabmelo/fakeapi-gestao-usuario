@@ -54,64 +54,33 @@
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
       "solicitadoEm": "2022-07-01 12:33:33"
-    },
-    {
-      "nomeUsuario": "Beltrano de Tal",
-      "emailUsuario": "beltrano@gmail.com",
-      "nomeModerador": "Fulano de Tal",
-      "emailModerador": "fulano@gmail.com",
-      "solicitadoEm": "2022-07-01 12:33:33"
     }
   ],
   "mensagens": [
     {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
+      "titulo": "Título da mensagem com texto resumido",
+      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação."
     },
     {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
+      "titulo": "Título da mensagem com texto resumido",
+      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação."
     },
     {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
+      "titulo": "Título da mensagem com texto resumido",
+      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação."
     },
     {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
+      "titulo": "Título da mensagem com texto resumido",
+      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação."
     },
     {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
+      "titulo": "Título da mensagem com texto resumido",
+      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação."
     },
     {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    },
-    {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    },
-    {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    },
-    {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    },
-    {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    },
-    {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    },
-    {
-      "titulo": "Título da mensagem com texto resumido mas explicativo",
-      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação. Caso o texto não caiba deve ocultar."
-    }    
+      "titulo": "Título da mensagem com texto resumido",
+      "descricao": "Texto completo da mensagem com os detalhes o que foi recebido através deste meio de comunicação."
+    }   
   ],
   "usuarios": [
     {
@@ -212,15 +181,6 @@
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
       "ultimaAtividade": "Sem registro de atividade"
-    },
-    {
-      "nomeUsuario": "Cilano de Tal",
-      "emailUsuario": "ciclano@gmail.com",
-      "permissao": "Personalizado",
-      "unidade": "Medidor 2",
-      "nomeModerador": "Qualquer de Tal",
-      "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     }
   ]
 }
