@@ -40,6 +40,91 @@
       "permissao": "Acesso a penalidades"
     }
   ],
+  "solicitacoes": [
+    {
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
+      "nomeModerador": "Fulano de Tal",
+      "emailModerador": "fulano@gmail.com",
+      "solicitadoEm": "2022-07-01 12:33:33"
+    },
+    {
+      "nomeUsuario": "Cilano de Tal",
+      "emailUsuario": "ciclano@gmail.com",
+      "nomeModerador": "Qualquer de Tal",
+      "emailModerador": "qualquer@gmail.com",
+      "solicitadoEm": "2022-07-01 12:33:33"
+    },
+    {
+      "nomeUsuario": "Beltrano de Tal",
+      "emailUsuario": "beltrano@gmail.com",
+      "nomeModerador": "Fulano de Tal",
+      "emailModerador": "fulano@gmail.com",
+      "solicitadoEm": "2022-07-01 12:33:33"
+    }
+  ],
+  "mensagens": [
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    },
+    {
+      "titulo": "Título da mensagem com texto resumido mas explicativo",
+      "descricao": "Texto completo da mensagem com os mínimos detalhes que descrevem o que foi recebido através deste meio de comunicação. Caso o texto não caiba em apenas uma linha ele deve ter um botão para expandir o texto completo."
+    }
+  ],
   "usuarios": [
     {
       "nomeUsuario": "Beltrano de Tal",
@@ -48,8 +133,7 @@
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
-      "ultimaAtividade": "Sem registro de atividade",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Sem registro de atividade"
     },
     {
       "nomeUsuario": "Cilano de Tal",
@@ -58,8 +142,7 @@
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
       "nomeUsuario": "Beltrano de Tal",
@@ -68,8 +151,7 @@
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
-      "ultimaAtividade": "Sem registro de atividade",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Sem registro de atividade"
     },
     {
       "nomeUsuario": "Cilano de Tal",
@@ -78,8 +160,7 @@
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
       "nomeUsuario": "Beltrano de Tal",
@@ -88,8 +169,7 @@
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
-      "ultimaAtividade": "Sem registro de atividade",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Sem registro de atividade"
     },
     {
       "nomeUsuario": "Cilano de Tal",
@@ -98,8 +178,7 @@
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
       "nomeUsuario": "Beltrano de Tal",
@@ -108,8 +187,7 @@
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
-      "ultimaAtividade": "Sem registro de atividade",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Sem registro de atividade"
     },
     {
       "nomeUsuario": "Cilano de Tal",
@@ -118,8 +196,7 @@
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
       "nomeUsuario": "Beltrano de Tal",
@@ -128,8 +205,7 @@
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
-      "ultimaAtividade": "Sem registro de atividade",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Sem registro de atividade"
     },
     {
       "nomeUsuario": "Cilano de Tal",
@@ -138,8 +214,7 @@
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     },
     {
       "nomeUsuario": "Beltrano de Tal",
@@ -148,8 +223,7 @@
       "unidade": "Medidor 1",
       "nomeModerador": "Fulano de Tal",
       "emailModerador": "fulano@gmail.com",
-      "ultimaAtividade": "Sem registro de atividade",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Sem registro de atividade"
     },
     {
       "nomeUsuario": "Cilano de Tal",
@@ -158,8 +232,7 @@
       "unidade": "Medidor 2",
       "nomeModerador": "Qualquer de Tal",
       "emailModerador": "qualquer@gmail.com",
-      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59",
-      "solicitadoEm": "2022-07-01 12:33:33"
+      "ultimaAtividade": "Programação lançada em 31/12/2021 às 23:59"
     }
   ]
 }
